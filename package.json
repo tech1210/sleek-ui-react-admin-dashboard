@@ -1,5 +1,5 @@
 {
-  "name": "Sphere-admin",
+  "name": "Sleek-admin",
   "private": true,
   "version": "1.3.0",
   "type": "module",
@@ -9,9 +9,9 @@
     "preview": "vite preview"
   },
   "author": {
-    "name": "Sphere",
-    "email": "hello@Sphere.com",
-    "url": "https://Sphere.com"
+    "name": "Sleek",
+    "email": "hello@Sleek.com",
+    "url": "https://Sleek.com"
   },
   "dependencies": {
     "apexcharts": "^3.41.0",

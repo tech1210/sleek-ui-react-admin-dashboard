@@ -37,7 +37,7 @@ function App() {
           index
           element={
             <>
-              <PageTitle title="Sphere - Tailwind CSS Admin Reactjs Dashboard Template" />
+              <PageTitle title="Sleek - Tailwind CSS Admin Reactjs Dashboard Template" />
               <ECommerce />
             </>
           }
@@ -46,7 +46,7 @@ function App() {
           path="/calendar"
           element={
             <>
-              <PageTitle title="Calendar | Sphere - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Calendar | Sleek - Tailwind CSS Admin Dashboard Template" />
               <Calendar />
             </>
           }
@@ -55,7 +55,7 @@ function App() {
           path="/profile"
           element={
             <>
-              <PageTitle title="Profile | Sphere - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Profile | Sleek - Tailwind CSS Admin Dashboard Template" />
               <Profile />
             </>
           }
@@ -64,7 +64,7 @@ function App() {
           path="/forms/form-elements"
           element={
             <>
-              <PageTitle title="Form Elements | Sphere - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Form Elements | Sleek - Tailwind CSS Admin Dashboard Template" />
               <FormElements />
             </>
           }
@@ -73,7 +73,7 @@ function App() {
           path="/forms/form-layout"
           element={
             <>
-              <PageTitle title="Form Layout | Sphere - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Form Layout | Sleek - Tailwind CSS Admin Dashboard Template" />
               <FormLayout />
             </>
           }
@@ -82,7 +82,7 @@ function App() {
           path="/tables"
           element={
             <>
-              <PageTitle title="Tables | Sphere - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Tables | Sleek - Tailwind CSS Admin Dashboard Template" />
               <Tables />
             </>
           }
@@ -91,7 +91,7 @@ function App() {
           path="/settings"
           element={
             <>
-              <PageTitle title="Settings | Sphere - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Settings | Sleek - Tailwind CSS Admin Dashboard Template" />
               <Settings />
             </>
           }
@@ -100,7 +100,7 @@ function App() {
           path="/chart"
           element={
             <>
-              <PageTitle title="Basic Chart | Sphere - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Basic Chart | Sleek - Tailwind CSS Admin Dashboard Template" />
               <Chart />
             </>
           }
@@ -109,7 +109,7 @@ function App() {
           path="/ui/alerts"
           element={
             <>
-              <PageTitle title="Alerts | Sphere - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Alerts | Sleek - Tailwind CSS Admin Dashboard Template" />
               <Alerts />
             </>
           }
@@ -118,7 +118,7 @@ function App() {
           path="/ui/buttons"
           element={
             <>
-              <PageTitle title="Buttons | Sphere - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Buttons | Sleek - Tailwind CSS Admin Dashboard Template" />
               <Buttons />
             </>
           }
@@ -127,7 +127,7 @@ function App() {
           path="/auth/signin"
           element={
             <>
-              <PageTitle title="Signin | Sphere - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Signin | Sleek - Tailwind CSS Admin Dashboard Template" />
               <SignIn />
             </>
           }
@@ -136,7 +136,7 @@ function App() {
           path="/auth/signup"
           element={
             <>
-              <PageTitle title="Signup | Sphere - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Signup | Sleek - Tailwind CSS Admin Dashboard Template" />
               <SignUp />
             </>
           }
