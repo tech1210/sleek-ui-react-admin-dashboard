@@ -1,21 +1,22 @@
-# Sphere React - Free React Tailwind Admin Dashboard Template
+# Sleek React - Free React Tailwind Admin Dashboard Template
 
-Sphere is a free and open-source admin dashboard template built on **React and Tailwind CSS**, providing developers with everything they need to create a comprehensive, data-driven back-end, 
+Sleek is a free and open-source admin dashboard template built on **React and Tailwind CSS**, providing developers with everything they need to create a comprehensive, data-driven back-end,
 dashboard, or admin panel solution for upcoming web projects.
 
-[![tailwind react admin template](https://ucarecdn.com/d2a6daed-eb9c-4c2f-8a95-4419c450e23a/Spherereact.jpg)](https://react-demo.Sphere.com/)
+[![tailwind react admin template](https://ucarecdn.com/d2a6daed-eb9c-4c2f-8a95-4419c450e23a/Spherereact.jpg)](https://react-demo.Sleek.com/)
 
+With Sleek, you get access to all the necessary dashboard UI components, elements, and pages required to build a feature-rich and complete dashboard or admin panel. Whether you're building dashboard or admin panel for a complex web application or a simple website, Sleek is the perfect solution to help you get up and running quickly.
 
-With Sphere, you get access to all the necessary dashboard UI components, elements, and pages required to build a feature-rich and complete dashboard or admin panel. Whether you're building dashboard or admin panel for a complex web application or a simple website, Sphere is the perfect solution to help you get up and running quickly.
+### [✨ Visit Website](https://Sleek.com/)
 
-### [✨ Visit Website](https://Sphere.com/)
+### [🚀 PRO Demo](https://react-demo.Sleek.com/)
 
-### [🚀 PRO Demo](https://react-demo.Sphere.com/)
-### [🚀 FREE Demo](https://free-react-demo.Sphere.com/)
+### [🚀 FREE Demo](https://free-react-demo.Sleek.com/)
 
-### Sphere React PRO vs Sphere React FREE Comparison 📊
+### Sleek React PRO vs Sleek React FREE Comparison 📊
 
-#### [Sphere React PRO](https://react-demo.Sphere.com/)
+#### [Sleek React PRO](https://react-demo.Sleek.com/)
+
 - 4 Unique Dashboards: Analytics, Ecommerce, Marketing, and CRM (More will be added)
 - 120+ Dashboard UI Components
 - 200+ Total UI Elements
@@ -23,37 +24,39 @@ With Sphere, you get access to all the necessary dashboard UI components, elemen
 - All Essential Elements and Files
 - Full Figma Design Source - As Shown on Demo
 
-___
+---
 
-#### [Sphere React FREE](https://free-react-demo.Sphere.com/)
+#### [Sleek React FREE](https://free-react-demo.Sleek.com/)
+
 - 1 Unique Dashboard
 - 30+ Dashboard UI Components
-- 50+ Total UI Elements 
+- 50+ Total UI Elements
 - 10+ HTML Files
 - TypeScript Support
 - Basic UI Kit Elements and Files
 - Figma Design Source - Free Sample
-___
 
-### [⬇️ Download Now](https://Sphere.com/download)
+---
 
-### [⚡ Get PRO Version](https://Sphere.com/pricing)
+### [⬇️ Download Now](https://Sleek.com/download)
 
-### [📄 Documentation/Installation](https://Sphere.com/docs)
+### [⚡ Get PRO Version](https://Sleek.com/pricing)
 
-### [🖌️ Sphere Figma Free Sample](https://www.figma.com/community/file/1214477970819985778)
+### [📄 Documentation/Installation](https://Sleek.com/docs)
 
-### [👉 Sphere HTML Version](https://github.com/Sphere/Sphere-free-tailwind-dashboard-template)
+### [🖌️ Sleek Figma Free Sample](https://www.figma.com/community/file/1214477970819985778)
 
-Sphere React dashboard template based on Tailwind CSS is a pre-designed starting point for building a web-based dashboard using the React JavaScript library and the Tailwind CSS utility-first framework. This Tailwind CSS + React Dashboard Template - built using Tailwind CSS and **includes pre-built components, such as navigation menus, charts, tables, and forms, which can be easily customized and integrated into a small-to-large React web application**.
+### [👉 Sleek HTML Version](https://github.com/Sleek/Sleek-free-tailwind-dashboard-template)
 
-If you're looking for a high-quality **React-Tailwind Dashboard, Admin Panel Template, or UI Kit**, Sphere will be the perfect choice for you!
+Sleek React dashboard template based on Tailwind CSS is a pre-designed starting point for building a web-based dashboard using the React JavaScript library and the Tailwind CSS utility-first framework. This Tailwind CSS + React Dashboard Template - built using Tailwind CSS and **includes pre-built components, such as navigation menus, charts, tables, and forms, which can be easily customized and integrated into a small-to-large React web application**.
 
-## Sphere React - Installation
+If you're looking for a high-quality **React-Tailwind Dashboard, Admin Panel Template, or UI Kit**, Sleek will be the perfect choice for you!
 
-You'll need to install Node.js >=v14.16+ (Recommended Version) (NPM comes along with it) and Sphere uses **Vite** for frontend tooling, to peform installation and building production version, please follow these steps from below:
+## Sleek React - Installation
 
-- Use terminal and navigate to the project (Sphere-react) root.
+You'll need to install Node.js >=v14.16+ (Recommended Version) (NPM comes along with it) and Sleek uses **Vite** for frontend tooling, to peform installation and building production version, please follow these steps from below:
+
+- Use terminal and navigate to the project (Sleek-react) root.
 
 - Then run : <code>npm install</code>
 
@@ -69,9 +72,8 @@ Default build output directory: /dist
 This command will generate a dist as build folder in the root of your template that you can upload to your server.
 
 ## Tons of React Tailwind Components for Dashboard
-React and Tailwind are two popular technologies that have taken the web development world by storm. React is a JavaScript library for building user interfaces, while Tailwind is a utility-first CSS framework that makes it easy to style web applications. Sphere React Offers 200+ Essential React + Tailwind CSS UI Components that you copy-paste and use with your dashboard projects. That includes - charts, graphs, navbars, tabs, buttons, cards, tables, profile, tabs, forms, modals, app pages, calender, web apps example templates and more... for React and Styled using Tailwind CSS
 
-
+React and Tailwind are two popular technologies that have taken the web development world by storm. React is a JavaScript library for building user interfaces, while Tailwind is a utility-first CSS framework that makes it easy to style web applications. Sleek React Offers 200+ Essential React + Tailwind CSS UI Components that you copy-paste and use with your dashboard projects. That includes - charts, graphs, navbars, tabs, buttons, cards, tables, profile, tabs, forms, modals, app pages, calender, web apps example templates and more... for React and Styled using Tailwind CSS
 
 ## Update Logs
 
@@ -87,8 +89,8 @@ React and Tailwind are two popular technologies that have taken the web developm
 
 ### Version 1.0.0 - [Apr 28, 2023]
 
-- Add Typescript in Sphere React.
+- Add Typescript in Sleek React.
 
 ### Version 1.0.0 - Initial Release - [Mar 13, 2023]
 
-- Initial release of Sphere React.
+- Initial release of Sleek React.
